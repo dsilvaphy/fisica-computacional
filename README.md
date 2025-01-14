@@ -1,4 +1,4 @@
-# 🌌 **Física Computacional com Python**
+# 🌌 **Física Computacional com Python** ⚛️
 
 Este repositório contém scripts avançados e organizados sobre **Física Computacional**, desenvolvidos para abordar conceitos complexos e técnicas numéricas utilizando Python. Ele inclui material complementar, atividades avaliativas e um capítulo do livro de integrais aplicado à Física Computacional.
 
