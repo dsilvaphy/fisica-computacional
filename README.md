@@ -2,7 +2,7 @@
 
 Este repositório contém scripts avançados e organizados sobre **Física Computacional**, desenvolvidos para abordar conceitos complexos e técnicas numéricas utilizando Python. Ele inclui material complementar, atividades avaliativas e um capítulo do livro de integrais aplicado à Física Computacional.
 
-Além disso, você pode acessar o livro completo "Computational Physics" de Mark Newman pelo link:  
+Além disso, você pode acessar o livro completo "Computational Physics" de Mark Newman pelo link:
 [📖 Acesse o livro de Mark Newman aqui](https://drive.google.com/file/d/1mPyxIMtzQsFlPmQGYG3F1ZguQQXragly/view?usp=sharing)
 
 ---
